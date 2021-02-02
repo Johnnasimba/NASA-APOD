@@ -1,0 +1,2 @@
+This project uses NASA API to get random astronomy picture of the day. The pictures are displayed in cards and each card contains an image, a title, add to favorites button, description, dates, and copyright information. By clicking on the image, you will see the full-resolution version of that image in a new tab. You can also add the image to your favorites page and this is accomplished using local storage. 
+This project is mobile responsive. 
